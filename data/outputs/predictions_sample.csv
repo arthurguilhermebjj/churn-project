@@ -1,0 +1,51 @@
+age,gender,location,marital_status,plan_type,monthly_value,contract_duration_months,payment_method,avg_monthly_minutes,data_usage_gb,num_services,num_complaints,support_calls,service_failures,last_interaction_days,app_usage_score,total_spent,late_payments,churn_probability,churn_pred,risk_segment
+46,Feminino,Urbano,Divorciado,Semestral,185.38,36,Débito Automático,934.69,85.99,2,0,0,0,54,2.6,6673.68,0,0.33443975625940403,1,Risco Médio
+27,Feminino,Urbano,Solteiro,Semestral,40.0,4,Cartão de Crédito,1466.74,67.36,2,0,2,0,142,4.4,160.0,0,0.3381199519219668,1,Risco Médio
+51,Feminino,Urbano,Solteiro,Semestral,73.94,10,Cartão de Crédito,1449.79,65.75,4,0,3,0,141,1.6,739.4,0,0.43125216600086347,1,Risco Médio
+42,Masculino,Urbano,Casado,Mensal,191.53,44,Boleto Bancário,726.0,13.59,3,0,7,1,167,3.7,8427.32,0,0.41610290856837656,1,Risco Médio
+30,Masculino,Urbano,Casado,Mensal,118.15,15,Boleto Bancário,1059.74,19.26,2,0,9,0,122,3.0,1772.25,0,0.5493249665219757,1,Risco Médio
+57,Masculino,Urbano,Casado,Mensal,157.16,2,Débito Automático,443.57,96.91,4,0,8,0,22,3.4,314.32,0,0.6003964041288541,1,Risco Médio
+67,Feminino,Urbano,Casado,Mensal,183.28,45,Débito Automático,910.45,75.22,3,0,8,0,37,3.1,8247.6,0,0.4386376469752885,1,Risco Médio
+28,Masculino,Urbano,Casado,Semestral,56.49,6,Débito Automático,395.4,17.31,2,0,4,0,133,3.7,338.94,0,0.3618324349293486,1,Risco Médio
+58,Masculino,Subúrbio,Divorciado,Mensal,185.0,22,Débito Automático,327.02,79.97,3,2,8,0,5,1.3,4070.0,0,0.7337153954292296,1,Críticos
+41,Masculino,Urbano,Solteiro,Anual,156.74,14,Boleto Bancário,326.83,39.76,1,0,2,1,70,2.0,2194.36,0,0.33603590251171533,1,Risco Médio
+25,Feminino,Subúrbio,Casado,Mensal,62.54,19,Cartão de Crédito,576.46,76.23,4,0,6,1,56,4.4,1188.26,0,0.4739075139989186,1,Risco Médio
+59,Feminino,Urbano,Divorciado,Anual,67.51,36,Cartão de Crédito,375.05,62.02,1,0,7,0,57,2.2,2430.36,0,0.260562249971859,0,Estáveis
+51,Feminino,Urbano,Solteiro,Mensal,151.29,27,Boleto Bancário,330.55,16.29,2,0,0,0,89,2.3,4084.83,0,0.5373388237147368,1,Risco Médio
+68,Masculino,Rural,Solteiro,Mensal,98.65,5,Boleto Bancário,1202.58,29.94,4,0,9,0,27,1.4,493.25,0,0.6672859056314224,1,Risco Médio
+35,Feminino,Urbano,Casado,Mensal,197.48,46,Boleto Bancário,421.84,80.27,4,0,1,0,66,3.4,9084.08,1,0.5561701926272767,1,Risco Médio
+24,Masculino,Subúrbio,Solteiro,Semestral,130.71,30,Cartão de Crédito,416.37,14.45,2,0,6,0,100,1.5,3921.3,0,0.3574259874763399,1,Risco Médio
+43,Masculino,Subúrbio,Casado,Mensal,191.21,44,Cartão de Crédito,1366.4,58.45,3,1,8,0,145,3.8,8413.24,0,0.46146578812468314,1,Risco Médio
+59,Feminino,Urbano,Divorciado,Mensal,33.32,20,Cartão de Crédito,539.82,82.99,2,3,9,0,176,2.2,666.4,0,0.7505935026524725,1,Críticos
+46,Masculino,Subúrbio,Casado,Mensal,76.17,33,Débito Automático,1316.33,53.72,2,0,1,0,42,2.4,2513.61,0,0.5024831385928917,1,Risco Médio
+43,Feminino,Urbano,Casado,Mensal,95.84,37,Cartão de Crédito,574.93,62.23,2,1,5,0,85,3.3,3546.08,0,0.5306748238335977,1,Risco Médio
+59,Masculino,Subúrbio,Casado,Mensal,148.67,47,Boleto Bancário,382.3,88.89,2,0,1,0,157,2.1,6987.49,0,0.46983012725642637,1,Risco Médio
+58,Feminino,Rural,Solteiro,Mensal,174.49,29,Cartão de Crédito,1442.03,55.97,2,1,9,0,9,2.8,5060.21,0,0.5883775195260736,1,Risco Médio
+34,Feminino,Urbano,Solteiro,Mensal,174.75,11,Boleto Bancário,164.31,81.34,1,1,9,0,80,2.6,1922.25,0,0.6573893070155628,1,Risco Médio
+59,Feminino,Urbano,Casado,Semestral,112.17,14,Cartão de Crédito,646.32,77.15,3,0,7,0,110,2.6,1570.38,0,0.3926927196592572,1,Risco Médio
+63,Feminino,Rural,Divorciado,Mensal,170.77,11,Débito Automático,1215.44,75.08,4,0,6,0,83,2.5,1878.47,0,0.6043940287499118,1,Risco Médio
+66,Feminino,Urbano,Solteiro,Mensal,183.43,21,Cartão de Crédito,1498.24,79.3,3,0,2,0,106,1.7,3852.03,0,0.5720016219033707,1,Risco Médio
+43,Masculino,Urbano,Casado,Semestral,31.75,39,Cartão de Crédito,393.06,56.19,3,0,9,1,70,2.1,1238.25,0,0.344494642995251,1,Risco Médio
+59,Feminino,Urbano,Divorciado,Mensal,70.87,5,Débito Automático,192.6,35.26,1,4,1,0,149,3.0,354.35,0,0.8124676739881183,1,Críticos
+39,Masculino,Urbano,Solteiro,Semestral,176.05,16,Boleto Bancário,256.2,60.37,3,3,6,0,148,1.2,2816.8,0,0.6668827161233025,1,Risco Médio
+34,Masculino,Subúrbio,Solteiro,Mensal,84.16,25,Cartão de Crédito,112.84,41.53,4,0,8,0,62,4.7,2104.0,0,0.4368645991385778,1,Risco Médio
+34,Masculino,Urbano,Casado,Anual,180.51,40,Débito Automático,1382.2,23.5,4,1,1,0,104,2.9,7220.4,1,0.37070154679451267,1,Risco Médio
+28,Masculino,Urbano,Casado,Semestral,189.71,27,Débito Automático,424.93,29.97,1,0,8,0,113,2.6,5122.17,0,0.3391544576007832,1,Risco Médio
+39,Feminino,Subúrbio,Casado,Mensal,108.99,8,Débito Automático,1498.79,62.84,2,0,7,0,62,4.4,871.92,0,0.49941984849199483,1,Risco Médio
+32,Feminino,Rural,Solteiro,Mensal,50.53,19,Cartão de Crédito,489.21,25.94,2,0,4,0,4,1.2,960.07,0,0.6058839144856915,1,Risco Médio
+21,Masculino,Urbano,Divorciado,Mensal,136.59,16,Débito Automático,101.6,13.04,3,0,2,0,156,1.9,2185.44,0,0.5799208782743475,1,Risco Médio
+41,Masculino,Subúrbio,Divorciado,Mensal,172.88,35,Cartão de Crédito,91.89,33.89,2,2,7,0,128,3.7,6050.8,0,0.5842999853368623,1,Risco Médio
+57,Masculino,Urbano,Casado,Semestral,92.12,17,Boleto Bancário,722.68,42.3,3,0,0,0,110,3.9,1566.04,0,0.3554298464788241,1,Risco Médio
+31,Feminino,Subúrbio,Solteiro,Mensal,179.96,6,Débito Automático,594.72,66.46,4,3,4,0,88,3.2,1079.76,0,0.756145603554959,1,Críticos
+69,Masculino,Subúrbio,Divorciado,Mensal,92.18,11,Boleto Bancário,769.4,48.34,4,1,5,0,55,1.4,1013.98,0,0.7080881020059141,1,Críticos
+39,Feminino,Urbano,Divorciado,Anual,52.61,19,Boleto Bancário,136.03,26.79,3,4,4,0,70,2.3,999.59,0,0.601471790710735,1,Risco Médio
+26,Masculino,Urbano,Divorciado,Anual,110.22,45,Cartão de Crédito,1283.91,30.41,3,0,1,0,42,4.9,4959.9,0,0.1729640796100884,0,Estáveis
+66,Feminino,Subúrbio,Casado,Mensal,96.17,2,Débito Automático,104.66,19.24,2,0,1,0,89,1.3,192.34,0,0.6318412732995473,1,Risco Médio
+21,Feminino,Urbano,Casado,Semestral,131.54,37,Cartão de Crédito,549.45,96.18,4,1,0,0,20,1.0,4866.98,0,0.46487780713466004,1,Risco Médio
+65,Masculino,Urbano,Solteiro,Mensal,64.87,10,Boleto Bancário,690.03,15.97,1,1,3,0,175,1.7,648.7,0,0.670940287147922,1,Risco Médio
+41,Masculino,Urbano,Casado,Mensal,160.66,30,Cartão de Crédito,1310.98,21.64,2,0,6,0,51,4.7,4819.8,0,0.42784254924955734,1,Risco Médio
+45,Masculino,Urbano,Casado,Mensal,121.42,41,Boleto Bancário,801.36,22.37,3,0,7,0,120,1.9,4978.22,0,0.5072634322173369,1,Risco Médio
+21,Feminino,Rural,Divorciado,Mensal,184.9,34,Débito Automático,907.48,18.04,1,0,4,0,110,2.9,6286.6,0,0.4801912924526388,1,Risco Médio
+33,Feminino,Subúrbio,Solteiro,Mensal,179.44,31,Boleto Bancário,1438.43,95.93,3,0,7,0,39,1.6,5562.64,0,0.5503522492233688,1,Risco Médio
+54,Masculino,Urbano,Divorciado,Anual,33.93,42,Débito Automático,144.96,60.04,1,0,1,0,126,3.2,1425.06,0,0.21779506384039593,0,Estáveis
+28,Masculino,Subúrbio,Casado,Anual,107.97,27,Débito Automático,1375.36,49.03,3,0,8,0,28,2.2,2915.19,0,0.2698601900482294,0,Estáveis

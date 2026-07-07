@@ -1,0 +1,23 @@
+feature_name
+age
+monthly_value
+contract_duration_months
+avg_monthly_minutes
+data_usage_gb
+num_services
+num_complaints
+support_calls
+service_failures
+last_interaction_days
+app_usage_score
+total_spent
+late_payments
+gender_Masculino
+location_Subúrbio
+location_Urbano
+marital_status_Divorciado
+marital_status_Solteiro
+plan_type_Mensal
+plan_type_Semestral
+payment_method_Cartão de Crédito
+payment_method_Débito Automático

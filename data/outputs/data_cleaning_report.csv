@@ -1,0 +1,2 @@
+rows_before,rows_after,rows_removed,pct_removed,invalid_total_spent_multiple_dots,churn_rate_before,churn_rate_after
+50000,38362,11638,0.23276,11638,0.20364,0.20640216881288775
